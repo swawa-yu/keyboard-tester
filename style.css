@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+
+h1 {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+#current-keys {
+    font-size: 1.5em;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+#history {
+    font-size: 1em;
+    color: #666;
+    max-height: 300px;
+    overflow-y: auto;
+    border-top: 1px solid #ccc;
+    padding-top: 10px;
+}
